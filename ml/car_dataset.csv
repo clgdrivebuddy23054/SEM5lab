@@ -1,0 +1,6 @@
+Make,Model,Year,Mileage_km,Fuel_Type,Price_USD
+Toyota,Corolla,2020,35000,Petrol,15000
+Honda,Civic,2019,40000,Petrol,14000
+Ford,F-150,2021,25000,Diesel,28000
+BMW,3 Series,2018,50000,Diesel,22000
+Tesla,Model 3,2022,10000,Electric,45000
